@@ -1,0 +1,7 @@
+1 5 rezervat
+2 7 rezervat
+3 3 rezervat
+4 9 rezervat
+5 2 rezervat
+6 5 rezervat
+7 9 rezervat

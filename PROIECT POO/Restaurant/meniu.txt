@@ -1,0 +1,9 @@
+1 21 Pizza_Capriciosa
+2 19 Pizza_Diavola
+3 20 Cascaval_panne
+4 13 Cartofi_wedges
+5 5 Cartofi_prajiti
+6 9 Apa_minerala
+7 7 Apa_plata
+8 5 Coca_Cola
+9 5 Pepsi

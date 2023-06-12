@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1623766523 source:d:\an 2\sem 2\eu 2021\poo proiect\restaurant\main.cpp
+	"Librarii.h"
+	"restaurant.h"
+	"masa.h"
+	"meniu.h"
+
+1623759089 source:d:\an 2\sem 2\eu 2021\poo proiect\restaurant\masa.cpp
+	"masa.h"
+
+1623759089 source:d:\an 2\sem 2\eu 2021\poo proiect\restaurant\meniu.cpp
+	"meniu.h"
+
+1623756581 d:\an 2\sem 2\eu 2021\poo proiect\restaurant\masa.h
+	"Librarii.h"
+
+1623758361 d:\an 2\sem 2\eu 2021\poo proiect\restaurant\meniu.h
+	"Librarii.h"
+
+1623763260 d:\an 2\sem 2\eu 2021\poo proiect\restaurant\librarii.h
+	<bits/stdc++.h>
+	<cstring>
+
+1623766271 d:\an 2\sem 2\eu 2021\poo proiect\restaurant\restaurant.h
+	"masa.h"
+	"meniu.h"
+	"Librarii.h"
+
+1623766289 source:d:\an 2\sem 2\eu 2021\poo proiect\restaurant\restaurant.cpp
+	"restaurant.h"
+	<bits/stdc++.h>
+
+1623762475 d:\an 2\sem 2\eu 2021\poo proiect\restaurant\administrator.cpp
+	"Librarii.h"
+	"restaurant.h"
+	"masa.h"
+	"meniu.h"
+
+1623762475 source:d:\an 2\sem 2\eu 2021\poo proiect\restaurant\administrator.cpp
+	"Librarii.h"
+	"restaurant.h"
+	"masa.h"
+	"meniu.h"
+
+1686569511 source:c:\users\delia\desktop\facultate an2 sem2\proiect poo\restaurant\main.cpp
+	"Librarii.h"
+	"restaurant.h"
+	"masa.h"
+	"meniu.h"
+
+1623759660 c:\users\delia\desktop\facultate an2 sem2\proiect poo\restaurant\librarii.h
+	<bits/stdc++.h>
+	<cstring>
+
+1686568692 c:\users\delia\desktop\facultate an2 sem2\proiect poo\restaurant\restaurant.h
+	"masa.h"
+	"meniu.h"
+	"Librarii.h"
+
+1623752981 c:\users\delia\desktop\facultate an2 sem2\proiect poo\restaurant\masa.h
+	"Librarii.h"
+
+1623754761 c:\users\delia\desktop\facultate an2 sem2\proiect poo\restaurant\meniu.h
+	"Librarii.h"
+
+1623755489 source:c:\users\delia\desktop\facultate an2 sem2\proiect poo\restaurant\masa.cpp
+	"masa.h"
+
+1623755489 source:c:\users\delia\desktop\facultate an2 sem2\proiect poo\restaurant\meniu.cpp
+	"meniu.h"
+
+1686039196 source:c:\users\delia\desktop\facultate an2 sem2\proiect poo\restaurant\restaurant.cpp
+	"restaurant.h"
+	<bits/stdc++.h>
+
